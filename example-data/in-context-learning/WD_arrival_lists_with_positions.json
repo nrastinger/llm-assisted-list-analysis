@@ -1,0 +1,229 @@
+[
+  [
+    "Ankunfft aller Hoch- und nidrigen Stands Persohnen. Den 25. May. Rothen-Thurn. Herr Graff Rechtern Almelo / Holländis. Gesandter / kombt von Regenspurg / logirt im Sintzendorffis. Garten. Den 26. dito. Herr Obrist Baron Hauben / kombt von Prag / logirt beym Herrn Baron Greiff. Stuben-Thor. Herr Eberhard Ubermüller von Hemmengen / Hauptman vom Neuburgis. Regiment / kombt auß Ungarn / logirt im Jägerhorn. Cärntner-Thor. Herr General Adjutant vom Cusanis. Regiment / kombt auß Ungarn / logirt im Matschackerhoff. Den 27. dito. Cärntner-Thor. Herr Obrist-Wachtmeister Baron Decano vom Toletischen Regiment / kombt von Presburg / logirt im Rosenbergis. Hauß. Herr Obrist-Wachtmeister Wagner / vom Hannoveris. Regiment / kombt von Kützsee / logirt im Matschackerhoff. Stuben-Thor. Herr Obrist-Lieutenant Rothenhan / und Herr Rittmeister Weyß / beede vom Hohenzollneris. Regiment / kommen von Presburg / logiren in der guldenen Aenten. (Tit.) Hr. Baron Dalbon komt von Turin / gehet zum Printz von Modena. Cärnter-Thor den 24. Sept. Herr Graf Spauer / komt auß Tyrol / log. im gullen Hirschen.",
+    [
+      {
+        "E": "25. May",
+        "T": "Datum",
+        "S": 56,
+        "En": 63
+      },
+      {
+        "E": "Rothen-Thurn",
+        "T": "Stadttor",
+        "S": 65,
+        "En": 77
+      },
+      {
+        "E": "Herr Graff Rechtern Almelo / Holländis. Gesandter",
+        "T": "Person",
+        "S": 79,
+        "En": 128
+      },
+      {
+        "E": "Regenspurg",
+        "T": "Herkunftsort",
+        "S": 141,
+        "En": 151
+      },
+      {
+        "E": "Sintzendorffis. Garten",
+        "T": "Unterkunftsort",
+        "S": 164,
+        "En": 186
+      },
+      {
+        "E": "26. dito",
+        "T": "Datum",
+        "S": 192,
+        "En": 200
+      },
+      {
+        "E": "Herr Obrist Baron Hauben",
+        "T": "Person",
+        "S": 202,
+        "En": 226
+      },
+      {
+        "E": "Prag",
+        "T": "Herkunftsort",
+        "S": 239,
+        "En": 243
+      },
+      {
+        "E": "Herrn Baron Greiff",
+        "T": "Unterkunftsort",
+        "S": 258,
+        "En": 276
+      },
+      {
+        "E": "Stuben-Thor",
+        "T": "Stadttor",
+        "S": 278,
+        "En": 289
+      },
+      {
+        "E": "Herr Eberhard Ubermüller von Hemmengen / Hauptman vom Neuburgis. Regiment",
+        "T": "Person",
+        "S": 291,
+        "En": 364
+      },
+      {
+        "E": "Ungarn",
+        "T": "Herkunftsort",
+        "S": 377,
+        "En": 383
+      },
+      {
+        "E": "Jägerhorn",
+        "T": "Unterkunftsort",
+        "S": 396,
+        "En": 405
+      },
+      {
+        "E": "Cärntner-Thor",
+        "T": "Stadttor",
+        "S": 407,
+        "En": 420
+      },
+      {
+        "E": "Herr General Adjutant vom Cusanis. Regiment",
+        "T": "Person",
+        "S": 422,
+        "En": 465
+      },
+      {
+        "E": "Ungarn",
+        "T": "Herkunftsort",
+        "S": 478,
+        "En": 484
+      },
+      {
+        "E": "Matschackerhoff",
+        "T": "Unterkunftsort",
+        "S": 497,
+        "En": 512
+      },
+      {
+        "E": "27. dito",
+        "T": "Datum",
+        "S": 518,
+        "En": 526
+      },
+      {
+        "E": "Cärntner-Thor",
+        "T": "Stadttor",
+        "S": 528,
+        "En": 541
+      },
+      {
+        "E": "Herr Obrist-Wachtmeister Baron Decano vom Toletischen Regiment",
+        "T": "Person",
+        "S": 543,
+        "En": 605
+      },
+      {
+        "E": "Presburg",
+        "T": "Herkunftsort",
+        "S": 618,
+        "En": 626
+      },
+      {
+        "E": "Rosenbergis. Hauß",
+        "T": "Unterkunftsort",
+        "S": 639,
+        "En": 656
+      },
+      {
+        "E": "Herr Obrist-Wachtmeister Wagner / vom Hannoveris. Regiment",
+        "T": "Person",
+        "S": 658,
+        "En": 716
+      },
+      {
+        "E": "Kützsee",
+        "T": "Herkunftsort",
+        "S": 729,
+        "En": 736
+      },
+      {
+        "E": "Matschackerhoff",
+        "T": "Unterkunftsort",
+        "S": 749,
+        "En": 764
+      },
+      {
+        "E": "Stuben-Thor",
+        "T": "Stadttor",
+        "S": 766,
+        "En": 777
+      },
+      {
+        "E": "Herr Obrist-Lieutenant Rothenhan / und Herr Rittmeister Weyß / beede vom Hohenzollneris. Regiment",
+        "T": "Person",
+        "S": 779,
+        "En": 876
+      },
+      {
+        "E": "Presburg",
+        "T": "Herkunftsort",
+        "S": 890,
+        "En": 898
+      },
+      {
+        "E": "guldenen Aenten",
+        "T": "Unterkunftsort",
+        "S": 916,
+        "En": 931
+      },
+      {
+        "E": "(Tit.) Hr. Baron Dalbon",
+        "T": "Person",
+        "S": 933,
+        "En": 956
+      },
+      {
+        "E": "Turin",
+        "T": "Herkunftsort",
+        "S": 966,
+        "En": 971
+      },
+      {
+        "E": "Printz von Modena",
+        "T": "Zielort",
+        "S": 984,
+        "En": 1001
+      },
+      {
+        "E": "Cärnter-Thor",
+        "T": "Stadttor",
+        "S": 1003,
+        "En": 1015
+      },
+      {
+        "E": "24. Sept.",
+        "T": "Datum",
+        "S": 1020,
+        "En": 1029
+      },
+      {
+        "E": "Herr Graf Spauer",
+        "T": "Person",
+        "S": 1030,
+        "En": 1046
+      },
+      {
+        "E": "Tyrol",
+        "T": "Herkunftsort",
+        "S": 1058,
+        "En": 1063
+      },
+      {
+        "E": "gullen Hirschen",
+        "T": "Unterkunftsort",
+        "S": 1074,
+        "En": 1089
+      }
+    ]
+  ]
+]

@@ -1,0 +1,154 @@
+[
+  [
+    "Ankunfft aller Hoch- und nidrigen Stands Persohnen. Den 25. May. Rothen-Thurn. Herr Graff Rechtern Almelo / Holländis. Gesandter / kombt von Regenspurg / logirt im Sintzendorffis. Garten. Den 26. dito. Herr Obrist Baron Hauben / kombt von Prag / logirt beym Herrn Baron Greiff. Stuben-Thor. Herr Eberhard Ubermüller von Hemmengen / Hauptman vom Neuburgis. Regiment / kombt auß Ungarn / logirt im Jägerhorn. Cärntner-Thor. Herr General Adjutant vom Cusanis. Regiment / kombt auß Ungarn / logirt im Matschackerhoff. Den 27. dito. Cärntner-Thor. Herr Obrist-Wachtmeister Baron Decano vom Toletischen Regiment / kombt von Presburg / logirt im Rosenbergis. Hauß. Herr Obrist-Wachtmeister Wagner / vom Hannoveris. Regiment / kombt von Kützsee / logirt im Matschackerhoff. Stuben-Thor. Herr Obrist-Lieutenant Rothenhan / und Herr Rittmeister Weyß / beede vom Hohenzollneris. Regiment / kommen von Presburg / logiren in der guldenen Aenten. (Tit.) Hr. Baron Dalbon komt von Turin / gehet zum Printz von Modena. Cärnter-Thor den 24. Sept. Herr Graf Spauer / komt auß Tyrol / log. im gullen Hirschen.",
+    [
+      {
+        "E": "25. May",
+        "T": "Datum"
+      },
+      {
+        "E": "Rothen-Thurn",
+        "T": "Stadttor"
+      },
+      {
+        "E": "Herr Graff Rechtern Almelo / Holländis. Gesandter",
+        "T": "Person"
+      },
+      {
+        "E": "Regenspurg",
+        "T": "Herkunftsort"
+      },
+      {
+        "E": "Sintzendorffis. Garten",
+        "T": "Unterkunftsort"
+      },
+      {
+        "E": "26. dito",
+        "T": "Datum"
+      },
+      {
+        "E": "Herr Obrist Baron Hauben",
+        "T": "Person"
+      },
+      {
+        "E": "Prag",
+        "T": "Herkunftsort"
+      },
+      {
+        "E": "Herrn Baron Greiff",
+        "T": "Unterkunftsort"
+      },
+      {
+        "E": "Stuben-Thor",
+        "T": "Stadttor"
+      },
+      {
+        "E": "Herr Eberhard Ubermüller von Hemmengen / Hauptman vom Neuburgis. Regiment"
+      },
+      {
+        "E": "Ungarn",
+        "T": "Herkunftsort"
+      },
+      {
+        "E": "Jägerhorn",
+        "T": "Unterkunftsort"
+      },
+      {
+        "E": "Cärntner-Thor",
+        "T": "Stadttor"
+      },
+      {
+        "E": "Herr General Adjutant vom Cusanis. Regiment",
+        "T": "Person"
+      },
+      {
+        "E": "Ungarn",
+        "T": "Herkunftsort"
+      },
+      {
+        "E": "Matschackerhoff",
+        "T": "Unterkunftsort"
+      },
+      {
+        "E": "27. dito",
+        "T": "Datum"
+      },
+      {
+        "E": "Cärntner-Thor",
+        "T": "Stadttor"
+      },
+      {
+        "E": "Herr Obrist-Wachtmeister Baron Decano vom Toletischen Regiment",
+        "T": "Person"
+      },
+      {
+        "E": "Presburg",
+        "T": "Herkunftsort"
+      },
+      {
+        "E": "Rosenbergis. Hauß",
+        "T": "Unterkunftsort"
+      },
+      {
+        "E": "Herr Obrist-Wachtmeister Wagner / vom Hannoveris. Regiment",
+        "T": "Person"
+      },
+      {
+        "E": "Kützsee",
+        "T": "Herkunftsort"
+      },
+      {
+        "E": "Matschackerhoff",
+        "T": "Unterkunftsort"
+      },
+      {
+        "E": "Stuben-Thor",
+        "T": "Stadttor"
+      },
+      {
+        "E": "Herr Obrist-Lieutenant Rothenhan / und Herr Rittmeister Weyß / beede vom Hohenzollneris. Regiment",
+        "T": "Person"
+      },
+      {
+        "E": "Presburg",
+        "T": "Herkunftsort"
+      },
+      {
+        "E": "guldenen Aenten",
+        "T": "Unterkunftsort"
+      },
+      {
+        "E": "(Tit.) Hr. Baron Dalbon",
+        "T": "Person"
+      },
+      {
+        "E": "Turin",
+        "T": "Herkunftsort"
+      },
+      {
+        "E": "Printz von Modena",
+        "T": "Zielort"
+      },
+      {
+        "E": "Cärnter-Thor",
+        "T": "Stadttor"
+      },
+      {
+        "E": "24. Sept.",
+        "T": "Datum"
+      },
+      {
+        "E": "Herr Graf Spauer",
+        "T": "Person"
+      },
+      {
+        "E": "Tyrol",
+        "T": "Herkunftsort"
+      },
+      {
+        "E": "gullen Hirschen",
+        "T": "Unterkunftsort"
+      }
+    ]
+  ]
+]
