@@ -5,4 +5,4 @@ The Jupyter Notebook and files available here were initially created as part of 
 For feedback, questions or other inquiries, please e-mail [ninaclaudia.rastinger@oeaw.ac.at](mailto:ninaclaudia.rastinger@oeaw.ac.at) or [nina.rastinger@univie.ac.at](mailto:nina.rastinger@univie.ac.at).
 
 Use Notebook via Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nrastinger/binder-test/main?urlpath=%2Fdoc%2Ftree%2FLLM-assisted-list-analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nrastinger/llm-assisted-list-analysis/main?urlpath=%2Fdoc%2Ftree%2FLLM-assisted-list-analysis.ipynb)
