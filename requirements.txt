@@ -1,0 +1,17 @@
+pickleshare
+jupyter
+
+# Core Jupyter
+jupyterlab
+pickleshare
+ipykernel
+
+# Your project-specific libraries
+nltk
+seqeval
+pandas
+tabulate
+matplotlib
+seaborn
+pandas
+
